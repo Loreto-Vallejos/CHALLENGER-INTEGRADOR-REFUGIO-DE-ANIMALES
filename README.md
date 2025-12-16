@@ -5,7 +5,6 @@
 Este proyecto corresponde al Challenger Integrador “Refugio de Animales”, desarrollado en Java para consola.
 El sistema permite registrar animales, especies, controlar estados de adopción y generar reportes generales.
 Está pensado para ser simple, claro y robusto, simulando el uso diario por voluntarios de un refugio.
-
 --
 
 **OBJETIVOS**
@@ -19,7 +18,6 @@ Está pensado para ser simple, claro y robusto, simulando el uso diario por volu
 - Validar entradas y evitar errores en ejecución
 
 - Preparar el sistema para una futura migración a POO
-  
 --
 
 **ESTRUCTURAS DE DATOS UTILIZADAS**
@@ -33,7 +31,6 @@ Está pensado para ser simple, claro y robusto, simulando el uso diario por volu
 - Map<String, String>: relación animal – especie
 
 - String[]: estados fijos (Disponible, Adoptado)
-  
 --
 
 **MENÚ PRINCIPAL**
@@ -51,7 +48,6 @@ Está pensado para ser simple, claro y robusto, simulando el uso diario por volu
 - Mostrar reporte general
 
 - Salir
-  
 --
 
 **FUNCIONALIDADES**
@@ -67,7 +63,6 @@ Está pensado para ser simple, claro y robusto, simulando el uso diario por volu
 - Reporte general con totales y tabla informativa
 
 - Mensajes claros de error y validaciones obligatorias
-  
 --
 
 **CÓMO EJECUTAR EL PROGRAMA**
@@ -77,7 +72,6 @@ javac RefugioAnimales.java
 
 - Ejecutar el programa:
 java RefugioAnimales
-
 --
 
 **ESTRUCTURA DEL PROYECTO**
